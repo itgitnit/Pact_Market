@@ -1,6 +1,6 @@
 Name - Nikhil Thakur
 
-This repo created for sig up page.
+This repo created for sign up page.
 
 My first task
 
